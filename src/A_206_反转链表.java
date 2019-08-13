@@ -1,4 +1,4 @@
-public class A_206_反转列表 {
+public class A_206_反转链表 {
     /**
      * 链表节点
      */
