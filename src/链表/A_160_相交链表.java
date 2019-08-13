@@ -1,3 +1,5 @@
+package 链表;
+
 public class A_160_相交链表 {
     /**
      * 链表节点

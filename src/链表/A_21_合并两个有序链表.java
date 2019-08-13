@@ -1,3 +1,5 @@
+package 链表;
+
 public class A_21_合并两个有序链表 {
     /**
      * 链表节点

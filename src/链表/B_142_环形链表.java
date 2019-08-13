@@ -1,3 +1,4 @@
+package 链表;
 
 public class B_142_环形链表 {
     /**

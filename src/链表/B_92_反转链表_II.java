@@ -1,3 +1,5 @@
+package 链表;
+
 public class B_92_反转链表_II {
     /**
      * 链表节点

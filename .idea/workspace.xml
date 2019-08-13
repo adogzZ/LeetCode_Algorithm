@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bf0af9-b639-41da-8b95-0fdd83e81ec8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C_23_合并k个排序链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈_队列_堆/A_225_用队列实现栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/栈_队列_堆/A_232_用栈实现队列.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A_160_相交链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/A_160_相交链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A_206_反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/A_206_反转链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A_21_合并两个有序链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/A_21_合并两个有序链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_138_复制带随机指针的链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/B_138_复制带随机指针的链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_142_环形链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/B_142_环形链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_86_分隔链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/B_86_分隔链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_92_反转链表_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/B_92_反转链表_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C_23_合并k个排序链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/链表/C_23_合并k个排序链表.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,28 +27,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A_206_反转链表.java">
+        <entry file="file://$PROJECT_DIR$/src/链表/A_206_反转链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_92_反转链表_II.java">
+        <entry file="file://$PROJECT_DIR$/src/链表/B_92_反转链表_II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A_160_相交链表.java">
+        <entry file="file://$PROJECT_DIR$/src/链表/A_160_相交链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
                 <element signature="e#148#149#0" expanded="true" />
                 <element signature="e#186#187#0" expanded="true" />
@@ -50,24 +58,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_142_环形链表.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_86_分隔链表.java">
+        <entry file="file://$PROJECT_DIR$/src/链表/B_142_环形链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_138_复制带随机指针的链表.java">
+        <entry file="file://$PROJECT_DIR$/src/链表/B_86_分隔链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/链表/B_138_复制带随机指针的链表.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,26 +88,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A_21_合并两个有序链表.java">
+        <entry file="file://$PROJECT_DIR$/src/链表/C_23_合并k个排序链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/C_23_合并k个排序链表.java">
+        <entry file="file://$PROJECT_DIR$/src/栈_队列_堆/A_232_用栈实现队列.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+            <state relative-caret-position="455">
+              <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
               <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#685#686#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/栈_队列_堆/A_225_用队列实现栈.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="36" />
+              <folding>
+                <element signature="e#692#693#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#766#767#0" expanded="true" />
+                <element signature="e#793#794#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -124,6 +155,9 @@
         <option value="$PROJECT_DIR$/src/B_138_复制带随机指针的链表.java" />
         <option value="$PROJECT_DIR$/src/A_21_合并两个有序链表.java" />
         <option value="$PROJECT_DIR$/src/C_23_合并k个排序链表.java" />
+        <option value="$PROJECT_DIR$/src/链表/C_23_合并k个排序链表.java" />
+        <option value="$PROJECT_DIR$/src/栈_队列_堆/A_225_用队列实现栈.java" />
+        <option value="$PROJECT_DIR$/src/栈_队列_堆/A_232_用栈实现队列.java" />
       </list>
     </option>
   </component>
@@ -149,6 +183,12 @@
               <item name="LeetCode_Algorithm_" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Algorithm_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode_Algorithm_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode_Algorithm_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="栈_队列_堆" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,12 +228,12 @@
       <updated>1565524897709</updated>
       <workItem from="1565524900077" duration="30000" />
       <workItem from="1565572210142" duration="20034000" />
-      <workItem from="1565660336151" duration="18199000" />
+      <workItem from="1565660336151" duration="25557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38263000" />
+    <option name="totallyTimeSpent" value="45621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -233,55 +273,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/B_92_反转链表_II.java">
+    <entry file="file://$PROJECT_DIR$/src/链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_142_环形链表.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A_206_反转链表.java">
+    <entry file="file://$PROJECT_DIR$/src/链表/A_21_合并两个有序链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_86_分隔链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_138_复制带随机指针的链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A_160_相交链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A_21_合并两个有序链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
             <element signature="e#151#152#0" expanded="true" />
             <element signature="e#189#190#0" expanded="true" />
@@ -289,13 +291,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/C_23_合并k个排序链表.java">
+    <entry file="file://$PROJECT_DIR$/src/链表/A_160_相交链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表/A_206_反转链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表/B_86_分隔链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表/B_92_反转链表_II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表/B_138_复制带随机指针的链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表/B_142_环形链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/链表/C_23_合并k个排序链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
             <element signature="e#152#153#0" expanded="true" />
             <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="187" column="22" selection-start-line="187" selection-start-column="15" selection-end-line="187" selection-end-column="22" />
+          <folding>
+            <element signature="e#20313#20314#0" expanded="true" />
+            <element signature="e#20349#20350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/栈_队列_堆/A_225_用队列实现栈.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#793#794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="112" column="26" lean-forward="true" selection-start-line="112" selection-start-column="26" selection-end-line="112" selection-end-column="26" />
+          <folding>
+            <element signature="e#2807#2808#0" expanded="true" />
+            <element signature="e#2841#2842#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="345" column="33" lean-forward="true" selection-start-line="345" selection-start-column="33" selection-end-line="345" selection-end-column="33" />
+          <folding>
+            <element signature="e#12873#12874#0" expanded="true" />
+            <element signature="e#12913#12914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/栈_队列_堆/A_232_用栈实现队列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+          <folding>
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,3 +1,5 @@
+package 链表;
+
 public class B_86_分隔链表 {
     /**
      * 链表节点

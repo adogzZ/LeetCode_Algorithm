@@ -1,3 +1,5 @@
+package 链表;
+
 public class C_23_合并k个排序链表 {
 
     /**
