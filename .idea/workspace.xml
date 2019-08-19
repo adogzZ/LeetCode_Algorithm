@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bf0af9-b639-41da-8b95-0fdd83e81ec8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/递归_回溯_分治/B_78_子集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/递归_回溯_分治/B_90_子集II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/递归_回溯_分治/B_40_组合总和II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A_455_分发饼干.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/A_455_分发饼干.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B_376_摆动序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/B_376_摆动序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B_402_移掉K位数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/B_402_移掉K位数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B_452_用最少数量的箭引爆气球.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/B_452_用最少数量的箭引爆气球.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B_55_跳跃游戏.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/B_55_跳跃游戏.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C_45_跳跃游戏II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/C_45_跳跃游戏II.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,14 +38,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/递归_回溯_分治/B_90_子集II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+            <state relative-caret-position="105">
+              <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/递归_回溯_分治/B_40_组合总和II.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -166,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/贪心/B_452_用最少数量的箭引爆气球.java" />
         <option value="$PROJECT_DIR$/src/递归_回溯_分治/B_78_子集.java" />
         <option value="$PROJECT_DIR$/src/递归_回溯_分治/B_90_子集II.java" />
+        <option value="$PROJECT_DIR$/src/递归_回溯_分治/B_40_组合总和II.java" />
       </list>
     </option>
   </component>
@@ -263,12 +266,12 @@
       <workItem from="1565921488266" duration="4629000" />
       <workItem from="1565938181252" duration="7756000" />
       <workItem from="1566026136199" duration="1630000" />
-      <workItem from="1566178676318" duration="2215000" />
+      <workItem from="1566178676318" duration="6773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116014000" />
+    <option name="totallyTimeSpent" value="120572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -291,7 +294,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33748272" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3365651" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -612,11 +615,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/递归_回溯_分治/B_90_子集II.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+        <state relative-caret-position="105">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/递归_回溯_分治/B_40_组合总和II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
         </state>
       </provider>
     </entry>
