@@ -1,3 +1,5 @@
+package 贪心;
+
 public class B_55_跳跃游戏 {
 
     public boolean canJump(int[] nums){

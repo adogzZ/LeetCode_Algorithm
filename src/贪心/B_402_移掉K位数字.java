@@ -1,3 +1,5 @@
+package 贪心;
+
 import java.util.Stack;
 
 public class B_402_移掉K位数字 {

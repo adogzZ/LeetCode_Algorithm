@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bf0af9-b639-41da-8b95-0fdd83e81ec8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/B_452_用最少数量的箭引爆气球.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/递归_回溯_分治/B_78_子集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/递归_回溯_分治/B_90_子集II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A_455_分发饼干.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/A_455_分发饼干.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_376_摆动序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/B_376_摆动序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_402_移掉K位数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/B_402_移掉K位数字.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_452_用最少数量的箭引爆气球.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/B_452_用最少数量的箭引爆气球.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_55_跳跃游戏.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/B_55_跳跃游戏.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/C_45_跳跃游戏II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/贪心/C_45_跳跃游戏II.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,81 +25,96 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/栈_队列_堆/B_215_数组中的第k个最大元素.java">
+        <entry file="file://$PROJECT_DIR$/src/贪心/C_45_跳跃游戏II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/栈_队列_堆/C_295_数据流中的中位数.java">
+        <entry file="file://$PROJECT_DIR$/src/递归_回溯_分治/B_78_子集.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="384">
+              <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A_455_分发饼干.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_376_摆动序列.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_402_移掉K位数字.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/B_55_跳跃游戏.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/C_45_跳跃游戏II.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/B_452_用最少数量的箭引爆气球.java">
+        <entry file="file://$PROJECT_DIR$/src/递归_回溯_分治/B_90_子集II.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+            <state relative-caret-position="441">
+              <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#258#259#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3984">
+              <caret line="203" column="23" selection-start-line="203" selection-start-column="23" selection-end-line="203" selection-end-column="23" />
+              <folding>
+                <element signature="e#3755#3756#0" expanded="true" />
+                <element signature="e#3792#3793#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13128">
+              <caret line="590" column="21" selection-start-line="590" selection-start-column="21" selection-end-line="590" selection-end-column="21" />
+              <folding>
+                <element signature="e#23523#23524#0" expanded="true" />
+                <element signature="e#23577#23578#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/贪心/A_455_分发饼干.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/贪心/B_55_跳跃游戏.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/贪心/B_376_摆动序列.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/贪心/B_402_移掉K位数字.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -105,6 +127,13 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hashco</find>
+      <find>contains</find>
+      <find>hash</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -134,6 +163,9 @@
         <option value="$PROJECT_DIR$/src/B_55_跳跃游戏.java" />
         <option value="$PROJECT_DIR$/src/C_45_跳跃游戏II.java" />
         <option value="$PROJECT_DIR$/src/B_452_用最少数量的箭引爆气球.java" />
+        <option value="$PROJECT_DIR$/src/贪心/B_452_用最少数量的箭引爆气球.java" />
+        <option value="$PROJECT_DIR$/src/递归_回溯_分治/B_78_子集.java" />
+        <option value="$PROJECT_DIR$/src/递归_回溯_分治/B_90_子集II.java" />
       </list>
     </option>
   </component>
@@ -159,6 +191,12 @@
               <item name="LeetCode_Algorithm_" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode_Algorithm_" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode_Algorithm_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode_Algorithm_" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="递归_回溯_分治" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -222,18 +260,21 @@
       <workItem from="1565746750116" duration="14995000" />
       <workItem from="1565781023344" duration="10863000" />
       <workItem from="1565832104387" duration="27869000" />
-      <workItem from="1565921488266" duration="3821000" />
+      <workItem from="1565921488266" duration="4629000" />
+      <workItem from="1565938181252" duration="7756000" />
+      <workItem from="1566026136199" duration="1630000" />
+      <workItem from="1566178676318" duration="2215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103605000" />
+    <option name="totallyTimeSpent" value="116014000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15549597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16152816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -250,7 +291,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33795014" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33748272" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -456,49 +497,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/A_455_分发饼干.java">
+    <entry file="file://$PROJECT_DIR$/src/贪心/B_452_用最少数量的箭引爆气球.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_376_摆动序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_402_移掉K位数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_55_跳跃游戏.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/C_45_跳跃游戏II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/B_452_用最少数量的箭引爆气球.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        <state relative-caret-position="96">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="108" column="22" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="1189" column="21" lean-forward="true" selection-start-line="1189" selection-start-column="21" selection-end-line="1189" selection-end-column="21" />
+          <folding>
+            <element signature="e#45598#45599#0" expanded="true" />
+            <element signature="e#45626#45627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="146" column="12" selection-start-line="146" selection-start-column="12" selection-end-line="146" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="617" column="8" selection-start-line="617" selection-start-column="8" selection-end-line="617" selection-end-column="8" />
+          <folding>
+            <element signature="e#6336#6337#0" expanded="true" />
+            <element signature="e#6404#6405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/贪心/C_45_跳跃游戏II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3984">
+          <caret line="203" column="23" selection-start-line="203" selection-start-column="23" selection-end-line="203" selection-end-column="23" />
+          <folding>
+            <element signature="e#3755#3756#0" expanded="true" />
+            <element signature="e#3792#3793#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13128">
+          <caret line="590" column="21" selection-start-line="590" selection-start-column="21" selection-end-line="590" selection-end-column="21" />
+          <folding>
+            <element signature="e#23523#23524#0" expanded="true" />
+            <element signature="e#23577#23578#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/贪心/A_455_分发饼干.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/贪心/B_55_跳跃游戏.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/贪心/B_376_摆动序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/贪心/B_402_移掉K位数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/递归_回溯_分治/B_78_子集.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="40" column="49" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/递归_回溯_分治/B_90_子集II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

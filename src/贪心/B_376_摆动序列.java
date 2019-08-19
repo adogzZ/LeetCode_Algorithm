@@ -1,3 +1,5 @@
+package 贪心;
+
 public class B_376_摆动序列 {
 
     /**
