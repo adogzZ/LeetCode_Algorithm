@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bf0af9-b639-41da-8b95-0fdd83e81ec8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/二分查找与二叉排序树/A_35_搜索插入位置.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/二分查找与二叉排序树/binary_search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/二分查找与二叉排序树/B_35_在排序数组中查找元素的第一个和最后一个位置.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,19 +60,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/二分查找与二叉排序树/binary_search.java">
+        <entry file="file://$PROJECT_DIR$/src/二分查找与二叉排序树/A_35_搜索插入位置.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="192">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/二分查找与二叉排序树/A_35_搜索插入位置.java">
+        <entry file="file://$PROJECT_DIR$/src/二分查找与二叉排序树/B_35_在排序数组中查找元素的第一个和最后一个位置.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            <state relative-caret-position="72">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -175,6 +174,7 @@
         <option value="$PROJECT_DIR$/src/二叉树与图/B_207_课程表.java" />
         <option value="$PROJECT_DIR$/src/二分查找与二叉排序树/binary_search.java" />
         <option value="$PROJECT_DIR$/src/二分查找与二叉排序树/A_35_搜索插入位置.java" />
+        <option value="$PROJECT_DIR$/src/二分查找与二叉排序树/B_35_在排序数组中查找元素的第一个和最后一个位置.java" />
       </list>
     </option>
   </component>
@@ -276,12 +276,12 @@
       <workItem from="1566265544252" duration="6005000" />
       <workItem from="1566277047041" duration="27892000" />
       <workItem from="1566356601665" duration="4616000" />
-      <workItem from="1566366820842" duration="8515000" />
+      <workItem from="1566366820842" duration="11941000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189754000" />
+    <option name="totallyTimeSpent" value="193180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -304,7 +304,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3365651" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3365651" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -322,17 +322,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/链表/A_21_合并两个有序链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -745,8 +734,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/二分查找与二叉排序树/A_35_搜索插入位置.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        <state relative-caret-position="192">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/二分查找与二叉排序树/B_35_在排序数组中查找元素的第一个和最后一个位置.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
