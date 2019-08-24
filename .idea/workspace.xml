@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77bf0af9-b639-41da-8b95-0fdd83e81ec8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/搜索/B_127_单词接龙.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/搜索/C_126_单词接龙II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,11 +29,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/搜索/B_127_单词接龙.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2126">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="114" selection-end-column="5" />
+            <state relative-caret-position="144">
+              <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/搜索/C_126_单词接龙II.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/A_206_反转列表.java" />
         <option value="$PROJECT_DIR$/src/B_92_反转链表_II.java" />
         <option value="$PROJECT_DIR$/src/A_160_相交链表.java" />
         <option value="$PROJECT_DIR$/src/B_142_环形链表.java" />
@@ -111,13 +122,14 @@
         <option value="$PROJECT_DIR$/src/哈希表与字符串/C_76_最小覆盖子串.java" />
         <option value="$PROJECT_DIR$/src/搜索/B_200_岛屿数量.java" />
         <option value="$PROJECT_DIR$/src/搜索/B_127_单词接龙.java" />
+        <option value="$PROJECT_DIR$/src/搜索/C_126_单词接龙II.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="990" />
-    <option name="width" value="940" />
-    <option name="height" value="1090" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -229,12 +241,12 @@
       <workItem from="1566366820842" duration="18074000" />
       <workItem from="1566437085849" duration="29638000" />
       <workItem from="1566525271438" duration="23216000" />
-      <workItem from="1566625599003" duration="7544000" />
+      <workItem from="1566625599003" duration="17939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259711000" />
+    <option name="totallyTimeSpent" value="270106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -275,19 +287,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/栈_队列_堆/A_225_用队列实现栈.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="36" />
-          <folding>
-            <element signature="e#692#693#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#766#767#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/栈_队列_堆/C_224_基本计算器.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
@@ -664,8 +663,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/搜索/B_127_单词接龙.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2126">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="114" selection-end-column="5" />
+        <state relative-caret-position="144">
+          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/搜索/C_126_单词接龙II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
